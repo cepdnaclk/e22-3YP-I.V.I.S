@@ -3,20 +3,29 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and project title
-repository-name: eYY-3yp-project-template
-title: Project Template
+repository-name: e22_3YP_I.V.I.S
+title: I.V.I.S
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# I.V.I.S
 
 ---
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  eNumber: E/22/330
+-  Name: R.Shathursima
+-  [email](mailto:[e22330@eng.pdn.ac.lk])
+-  eNumber: E/22/373
+-  Name: L.Sharmilan
+-  [email](mailto:[e22373@eng.pdn.ac.lk])
+-  eNumber: E/22/385
+-  Name:S.Sulaxshan
+-  [email](mailto:[e22385@eng.pdn.ac.lk])
+-  eNumber: E/22/193
+-  Name: S.Kishonithan
+-  [email](mailto:[e22193@eng.pdn.ac.lk])      
 
 <!-- Image (photo/drawing of the final hardware) should be here -->
 
