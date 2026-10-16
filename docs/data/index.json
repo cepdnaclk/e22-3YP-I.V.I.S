@@ -1,4 +1,6 @@
 {
+    "title": "Smart Adaptive IoT Medical Air Bed",
+    "description": "Smart Adaptive IoT Medical Air Bed with Automated Pressure and Temperature Mapping for Bedsore Prevention",
     "team": [
         {
             "name": "R.Shathursima",
@@ -32,8 +34,10 @@
         }
     ],
     "tags": [
-        "Web",
-        "Embedded Systems"
+        "Embedded Systems",
+        "IoT",
+        "Healthcare",
+        "Web"
     ],
     "image": "cover_page.jpg",
     "thumbnail": "thumbnail.jpg"

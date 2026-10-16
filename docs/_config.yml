@@ -1,9 +1,9 @@
 # This theme is based on https://github.com/jekyll/minima
 # Please refer above link to know the available configurations
 
-title: ""
+title: "Smart Adaptive IoT Medical Air Bed"
 remote_theme: cepdnaclk/eYY-project-theme
-description: ""
+description: "Team I.V.I.S — Smart Adaptive IoT Medical Air Bed with Automated Pressure and Temperature Mapping"
 markdown: kramdown
 
 kramdown:
