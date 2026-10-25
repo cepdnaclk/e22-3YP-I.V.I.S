@@ -291,7 +291,7 @@ By synthesizing real-time pressure mapping, cutaneous thermal tracking, adaptive
 
 ## Links
 
-- [Project Repository]([https://github.com/cepdnaclk/e22-3YP-I.V.I.S])
+- [Project Repository](https://github.com/cepdnaclk/e22-3YP-I.V.I.S)
 - [Project Documentation Site](https://cepdnaclk.github.io/e22-3YP-I.V.I.S) 
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/) 
 - [Faculty of Engineering, University of Peradeniya](https://eng.pdn.ac.lk/) 
