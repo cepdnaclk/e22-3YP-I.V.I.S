@@ -265,19 +265,19 @@ The preliminary estimated bill of materials (BOM) for prototyping the I.V.I.S me
 
 | Item | Component Description | Quantity | Unit Cost (LKR) | Total Cost (LKR) |
 | :--- | :--- | :---: | :---: | :---: |
-| 1 | ESP32-WROOM-32 Development Board | 1 | 2,500 LKR | 2,500 LKR |
-| 2 | Force Sensitive Resistors (FSR Matrix Cells) | 16 | 600 LKR | 9,600 LKR |
-| 3 | DS18B20 Waterproof Digital Temperature Sensors | 4 | 650 LKR | 2,600 LKR |
-| 4 | CD74HC4067 16-Channel Analog Multiplexer Modules | 2 | 450 LKR | 900 LKR |
-| 5 | 12V DC Ultra-Quiet Medical Micro Air Pump | 1 | 4,200 LKR | 4,200 LKR |
-| 6 | 12V Normally Closed (NC) Miniature Solenoid Valves | 6 | 1,200 LKR | 7,200 LKR |
-| 7 | 8-Channel Relay Module with Optocoupler Isolation | 1 | 2,200 LKR | 2,200 LKR |
-| 8 | Multi-Chamber Medical Air Bed Bladder Overlay | 1 | 8,500 LKR | 8,500 LKR |
-| 9 | 12V 5A Medical Grade Power Adapter & Regulators | 1 | 3,500 LKR | 3,500 LKR |
-| 10 | Emergency CPR Latching Switch & Enclosure Hardware | 1 | 1,800 LKR | 1,800 LKR |
-| 11 | Silicone Pneumatic Tubing, T-Connectors & Manifold | 1 | 2,000 LKR | 2,000 LKR |
-| 12 | Custom PCB Fabrication, Terminal Blocks & Wire Harness | 1 | 4,000 LKR | 4,000 LKR |
-| **Total** | **Estimated Prototype Budget** | | | **49,000 LKR** |
+| 1 | ESP32-WROOM-32 Development Board | 1 |to be updated | to be updated |
+| 2 | Force Sensitive Resistors (FSR Matrix Cells) | 16 |to be updated | to be updated |
+| 3 | DS18B20 Waterproof Digital Temperature Sensors | 4 | to be updated | to be updated |
+| 4 | CD74HC4067 16-Channel Analog Multiplexer Modules | 2 | to be updated | to be updated |
+| 5 | 12V DC Ultra-Quiet Medical Micro Air Pump | 1 | to be updated | to be updated |
+| 6 | 12V Normally Closed (NC) Miniature Solenoid Valves | 6 | to be updated| to be updated |
+| 7 | 8-Channel Relay Module with Optocoupler Isolation | 1 | to be updated | to be updated |
+| 8 | Multi-Chamber Medical Air Bed Bladder Overlay | 1 | to be updated | to be updated |
+| 9 | 12V 5A Medical Grade Power Adapter & Regulators | 1 | to be updated | to be updated |
+| 10 | Emergency CPR Latching Switch & Enclosure Hardware | 1 | to be updated | to be updated|
+| 11 | Silicone Pneumatic Tubing, T-Connectors & Manifold | 1 |  to be updated    |to be updated|
+| 12 | Custom PCB Fabrication, Terminal Blocks & Wire Harness | 1 | to be updated | to be updated|
+ 
 
 ---
 
