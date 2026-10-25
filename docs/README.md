@@ -16,7 +16,7 @@ title: Smart Adaptive IoT Medical Air Bed
 [![Department](https://img.shields.io/badge/Dept-Computer%20Engineering-blue.svg)](http://www.ce.pdn.ac.lk/)
 [![University](https://img.shields.io/badge/University%20of-Peradeniya-8A2BE2.svg)](https://eng.pdn.ac.lk/)
 [![Batch](https://img.shields.io/badge/Batch-E22-orange.svg)]()
-[![Repository](https://img.shields.io/badge/repo-e22__3YP__I.V.I.S-181717?logo=github&logoColor=white)](https://github.com/cepdnaclk/{{ page.repository-name }})
+[![Repository](https://img.shields.io/badge/repo-e22__3YP__I.V.I.S-181717?logo=github&logoColor=white)](https://github.com/cepdnaclk/e22-3YP-I.V.I.S))
 
 ---
 
